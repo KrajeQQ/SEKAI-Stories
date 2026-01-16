@@ -30,7 +30,7 @@ To contribute to the localization of the project, please follow these steps:
 6. Open a pull request with your changes. 
 
 #### Optional
-For creativity, you can translate the flavor texts or add your own at [`src/components/FlavorText.tsx`](./src/components/FlavorText.tsx). **Make sure not to add any offensive or inappropriate texts**.
+For creativity, you can translate the flavor texts or add your own at [`src/components/FlavorText.tsx`](./src/components/Front/FlavorText.tsx). **Make sure not to add any offensive or inappropriate texts**.
 
 ## List of languages translated
 | Language               | Locale Code | Translator/s                          | Status            |
